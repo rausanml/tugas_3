@@ -18,5 +18,5 @@ Anggota::create([
 'nama' => 'Rousyati', 
 'hp' => '085123456783', 
 ]); 
-} 
-} 
+}
+}
